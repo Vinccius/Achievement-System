@@ -4,4 +4,4 @@
 
 Even though it's still in beta the system is already relatively complete, and includes:
 
-![./Achievemetprint.png](Exmaple image)
+![Example image](./Achievemetprint.png)
