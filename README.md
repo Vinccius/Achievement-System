@@ -4,4 +4,4 @@
 
 Even though it's still in beta the system is already relatively complete, and includes:
 
-![Example image](./Achievemetprint.png)
+![Example image](https://screenshot.net/pt/n78mjij)
